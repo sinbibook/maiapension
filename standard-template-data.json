@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-05T02:53:28.465911981Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-07T07:51:57.694670396Z",
     "templateType": "trip_b",
     "propertyId": "ff89471e-634c-4d43-9271-0ea499794336",
     "homepageId": "01a1a163-b498-7979-a522-1e2e34c31538"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전 연락 부탁드립니다.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 15,000원, 아동 1인 15,000원, 유아 1인 15,000원\n(1박기준)\n※ 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가요금이 발생합니다. 예약 시 예약 인원을 꼭 확인해주세요.\n\n[공용바베큐]\n- 이용 장소: 사계절 이용 가능한 실내 공용 바베큐장\n- 이용 시간: ~ 00:00\n- 신청 시간: ~ 22:00\n- 이용 요금: 2인부터 4인 20,000원 (1박기준/현장결제)\n- 제공 구성: 숯 + 그릴 + 집게 + 가위 + 장갑\n\n[공용수영장]\n- 운영 기간: 2026년 6월 19일 ~ 9월 13일\n- 이용 시간: 09:00 ~ 19:00\n- 수영장 크기: 8m x 20m x 1.2m\n- 이용 복장: 수영복, 래시가드\n\n[애견동반]\n- 이용 객실: 커플원룸(A타입) / 패밀리디럭스(D타입) 객실만 가능\n- 이용 요금: 1박 1마리 15,000원 (1박기준/현장결제)\n- 제한 무게: 4KG 미만 소형견만 입실 가능\n- 제한 마릿수: 1마리까지 가능\n※ 객실은 랜덤 배정으로 진행되오니 미리 펜션에 애견 동반 가능한 객실이 있는지 확인 후 예약 진행 부탁드립니다.\n\n[부대시설]\n[바베큐세트]\n- 메뉴: 석식 바베큐 (한돈목살 200G, 소시지 100G, 밥, 국, 쌈 야채, 쌈장) + 조식 (황태해장국)\n- 금액: 1인 38,500원 (숯, 그릴 비용 포함)\n- 단체만 가능하며, 20인 이상 신청 가능\n\n[세미나실]\n- 수용 인원: 50명\n- 구비 장비: 마이크, 노트북, 빔 프로젝터\n- 가격 (현장결제 추정): 하루 200,000원, 4시간 100,000원\n- 사전 예약 필수\n\n[노래방]\n- 가격 (현장결제 추정): 하루 80,000원, 1시간 30,000원\n\n[캠프 파이어]\n- 이용 요금 (현장결제 추정): 70,000원\n\n[운동시설]\n- 운동 시설: 공 무료 대여 가능\n\n[편의 및 주변 시설]\n- 편의점: 차량 5분 거리\n- 마트: 차량 10분 거리에 하나로마트가 있습니다.\n\n[픽업]\n- 장소: 휘닉스파크 정류장에서 펜션까지 픽업 가능\n- 이용 요금: 무료 \n- 운영 시간: 제한없음\n※ 사전 예약 필수\n※ 성수기 기간에는 픽업 절대 불가입니다.",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 선결제\n※ 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가요금이 발생합니다. 예약 시 예약 인원을 꼭 확인해주세요.\n\n[공용바베큐]\n- 이용 장소: 사계절 이용 가능한 실내 공용 바베큐장\n- 이용 시간: ~ 00:00\n- 신청 시간: ~ 22:00\n- 이용 요금: 2인부터 4인 20,000원 (1박기준/현장결제)\n- 제공 구성: 숯 + 그릴 + 집게 + 가위 + 장갑\n\n[공용수영장]\n- 운영 기간: 2026년 6월 19일 ~ 9월 13일\n- 이용 시간: 09:00 ~ 19:00\n- 수영장 크기: 8m x 20m x 1.2m\n- 이용 복장: 수영복, 래시가드\n\n[애견동반]\n- 이용 객실: 커플원룸(A타입) / 패밀리디럭스(D타입) 객실만 가능\n- 이용 요금: 1박 1마리 15,000원 (1박기준/현장결제)\n- 제한 무게: 4KG 미만 소형견만 입실 가능\n- 제한 마릿수: 1마리까지 가능\n※ 객실은 랜덤 배정으로 진행되오니 미리 펜션에 애견 동반 가능한 객실이 있는지 확인 후 예약 진행 부탁드립니다.\n\n[부대시설]\n[바베큐세트]\n- 메뉴: 석식 바베큐 (한돈목살 200G, 소시지 100G, 밥, 국, 쌈 야채, 쌈장) + 조식 (황태해장국)\n- 금액: 1인 38,500원 (숯, 그릴 비용 포함)\n- 단체만 가능하며, 20인 이상 신청 가능\n\n[세미나실]\n- 수용 인원: 50명\n- 구비 장비: 마이크, 노트북, 빔 프로젝터\n- 가격 (현장결제 추정): 하루 200,000원, 4시간 100,000원\n- 사전 예약 필수\n\n[노래방]\n- 가격 (현장결제 추정): 하루 80,000원, 1시간 30,000원\n\n[캠프 파이어]\n- 이용 요금 (현장결제 추정): 70,000원\n\n[운동시설]\n- 운동 시설: 공 무료 대여 가능\n\n[편의 및 주변 시설]\n- 편의점: 차량 5분 거리\n- 마트: 차량 10분 거리에 하나로마트가 있습니다.\n\n[픽업]\n- 장소: 휘닉스파크 정류장에서 펜션까지 픽업 가능\n- 이용 요금: 무료 \n- 운영 시간: 제한없음\n※ 사전 예약 필수\n※ 성수기 기간에는 픽업 절대 불가입니다.",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -607,7 +607,7 @@
           {
             "id": "7ddc3fca-2907-443b-af22-fa6750918c67",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/3E0P7gjCG5mH.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -617,7 +617,7 @@
           {
             "id": "749b4c37-6bed-4d4d-86f3-e3cdd996ccb3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/sgr21XPI5Z7V.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -625,7 +625,7 @@
           {
             "id": "a8ea566c-7641-4121-8563-b9d2c770cbc6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/m7THcnvCPYgM.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -633,7 +633,7 @@
           {
             "id": "d3ab551c-5b26-4dd4-967a-d2fe8d6926a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/DjFJLgvwQhRy.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -641,7 +641,7 @@
           {
             "id": "bb110cbc-f5f9-4da7-affe-1b9b69e92808",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/zxl293NZvBgI.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -649,7 +649,7 @@
           {
             "id": "b4d9f5a8-d082-4196-94c1-a5834f75aabf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/ewcEzCjkDLAM.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -657,7 +657,7 @@
           {
             "id": "ad1df17a-cabd-4043-8749-9661c4d93f7b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/IOx0mVK3z1gC.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -665,7 +665,7 @@
           {
             "id": "04338e62-3b4f-4e19-a7b1-6b5a0eecd0ef",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/AzV6dY5G39pc.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -673,7 +673,7 @@
           {
             "id": "ff048f2e-1cc3-40e1-8821-7b7a17cbb357",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/fR5GNepX4t6a.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -681,7 +681,7 @@
           {
             "id": "f5138567-94f1-4932-ad83-56ea1e0251ab",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/26f1yw5xHqbJ.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
